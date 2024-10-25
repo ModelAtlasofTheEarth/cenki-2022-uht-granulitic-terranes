@@ -1,1 +1,26 @@
-
+cff-version: 1.2.0
+message: If you use this model, please cite it as below.
+authors:
+- family-names: Cenki-Tok or Cenki
+  given-names: "B\xE9n\xE9dicte"
+  orcid: https://orcid.org/0000-0001-7649-4498
+- family-names: Rey
+  given-names:
+  - Patrice F.
+  - Patrice
+  orcid: https://orcid.org/0000-0002-1767-8593
+- family-names: Arcay
+  given-names: Diane
+  orcid: https://orcid.org/0000-0001-6773-0807
+- family-names: Giordani
+  given-names: Julian
+  orcid: https://orcid.org/0000-0003-4515-9296
+title: "Timing of partial melting and granulite formation during the genesis of high\
+  \ to ultra\u2010high temperature terranes: Insight from numerical experiments"
+version: ''
+doi: https://doi.org/10.25914/aaen-nc33
+date-released: '2024-10-25'
+url:
+- https://mate.science/models/cenki-2022-uht-granulitic-terranes-1/
+- https://github.com/ModelAtlasofTheEarth/cenki-2022-uht-granulitic-terranes-1/
+type: dataset
