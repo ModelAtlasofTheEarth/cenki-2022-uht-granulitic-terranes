@@ -21,6 +21,6 @@ version: ''
 doi: https://doi.org/10.25914/aaen-nc33
 date-released: '2024-10-25'
 url:
-- https://mate.science/models/cenki-2022-uht-granulitic-terranes-1/
-- https://github.com/ModelAtlasofTheEarth/cenki-2022-uht-granulitic-terranes-1/
+- https://mate.science/models/cenki-2022-uht-granulitic-terranes/
+- https://github.com/ModelAtlasofTheEarth/cenki-2022-uht-granulitic-terranes/
 type: dataset
