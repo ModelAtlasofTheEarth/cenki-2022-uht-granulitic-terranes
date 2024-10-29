@@ -9,11 +9,12 @@ for_codes:
   - 370401
 status:
   - completed
-doi: https://doi.org/10.25914/vw5k-q269
+doi: https://doi.org/10.25914/aaen-nc33
 url: https://mate.science//models/gollapalli-2022-sunda-subduction
-creditText: 'Gollapalli, T. (2024). Subduction dynamics and plate coupling along seismically
-  active margin: the role of slab steps [Data set]. AuScope, National Computational
-  Infrastructure. https://doi.org/vw5k-q269'
+creditText: 'Cenki-Tok or Cenki, B., Rey, Patrice F.., Arcay, D., & Giordani, J. (2024).
+  Timing of partial melting and granulite formation during the genesis of high to
+  ultra‐high temperature terranes: Insight from numerical experiments [Data set].
+  AuScope, National Computational Infrastructure. https://doi.org/aaen-nc33'
 software:
   name: 'Underworld2: Python Geodynamics Modelling for Desktop, HPC and Cloud'
   doi: https://doi.org/10.5281/zenodo.3975252
@@ -32,7 +33,8 @@ creators:
     family_name: Gollapalli
     ORCID: 0000-0001-9394-4104
 associated_publication:
-  title: Unravelling tectonic coupling and loading along the Sunda margin through 3-D regional numerical  modelling
+  title: Unravelling tectonic coupling and loading along the Sunda margin through
+    3-D regional numerical  modelling
   doi: https://doi.org/10.26180/21664034.v1
   date: 2022-12
   authors:
