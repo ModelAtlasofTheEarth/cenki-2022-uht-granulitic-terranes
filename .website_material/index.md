@@ -122,7 +122,7 @@ images:
     src: ''
     caption: ''
 animation:
-  src: ./graphics/
+  src:
   caption: ''
 model_setup_info:
   url: ''
